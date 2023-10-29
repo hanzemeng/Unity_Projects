@@ -2,7 +2,7 @@
 This repository lists some of my Unity projects.
 
 ## Contact:
-Email: hanzemeng2001518@gmail.com
+Email: hanzemeng2001518@gmail.com<br>
 Phone: 402-208-7208
 
 ## An Important Note:
