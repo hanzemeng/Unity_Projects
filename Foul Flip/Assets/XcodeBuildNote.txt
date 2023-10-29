@@ -1,0 +1,9 @@
+﻿Update Version Number in Build Setting and Alert
+
+Add the following in info.plist:
+<key>ITSAppUsesNonExemptEncryption</key>
+<false />
+
+Unity-iPhone: always embed Swift YES
+UnityFramework: always embed Swift NO
+GameAssembly: always embed Swift NO
