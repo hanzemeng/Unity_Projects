@@ -10,6 +10,8 @@ The projects uploaded to this repository do not contain all of the artistic asse
 
 ## Project Summary
 Below describes each project in more detail and shows the period that I actively worked on it.
+### DOTS_Demo November 2023
+A demo project to show off my skills in DOTS.
 ### Foul Flip (September 2023 - October 2023)
 A free puzzle game available on [iOS](https://apps.apple.com/app/foul-flip/id6467679071) and [itch.io](https://hanzemeng.itch.io/foul-flip).
 ### Insiders (September 2022 - December 2022)
