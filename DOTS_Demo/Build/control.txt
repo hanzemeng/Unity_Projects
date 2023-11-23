@@ -1,5 +1,7 @@
 A and D to move the camera.
 W and S to increase and decrease spawn rate.
 
+Hold down left mouse button on the white space to instantiate arrows.
+
 Alt + F4 to quit on Windows.
 Command + Q to quit on Mac.
