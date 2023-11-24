@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca9ceb493f612ef4b8de549a6739274d, type: 3}
+  m_Name: GolemUnit MINIBOSS
+  m_EditorClassIdentifier: 
+  npcUnitType: 4
+  enemyPrefab: {fileID: 4923546560636391363, guid: 77ac3882990584a41a255da633029f9c, type: 3}
+  allyPrefab: {fileID: 762741404832624773, guid: 8e32c17916d18344b85595f19fa2f07a, type: 3}
+  canTakeOver: 0
+  inventorySpace: 1
+  icon: {fileID: 21300000, guid: 26d9c0500eadae74c9601254916095d7, type: 3}
+  deathFX: {fileID: 4348045923172637205, guid: 55fed6f1099b6c74da204d475bd4dd60, type: 3}
+  dropItemFX: {fileID: 5416291788017889939, guid: 4ecaa62b47bd1734f8852ee25406701e, type: 3}
+  isBoss: 1

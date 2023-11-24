@@ -1,0 +1,5 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+Our convoy was attacked by monsters! We had to scramble to safety and left our last <color=red>crate</color> at the <color=red>end of the dirt road</color>. 
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+Can you help bring it back to these <color=red>barrels</color> here? We really need the supplies for the town or Dendrius is going to kill me.
+

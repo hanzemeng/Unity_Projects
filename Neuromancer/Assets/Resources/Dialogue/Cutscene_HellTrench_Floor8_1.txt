@@ -1,0 +1,3 @@
+Left TextBubbleTalk NPC0PortraitHalfNormal EmptyPortraitHalfNormal
+Master! I have returned!
+

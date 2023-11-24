@@ -1,0 +1,3 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+Did you get the <color=red>crate</color>? It’s at the <color=red>end of the dirt road</color>. If you don’t bring the supplies back to the <color=red>barrels</color>, Dendrius is going to kill me.
+

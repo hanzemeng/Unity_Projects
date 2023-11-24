@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaab39a432f3a2e0591c2960ac988d8d, type: 3}
+  m_Name: NavMesh Show Command
+  m_EditorClassIdentifier: 
+  commandWord: navmeshShow
+  description: Displays the current scene's NavMesh visualizations. \n - Light blue
+    = humanoid/grounded NavMesh area.\n - Dark blue = swimmer NavMesh area.\n - Green
+    = flyer NavMesh area.\nWill require the NavMesh Display to be toggled on.
+  help: '   "navmeshShow {string}"\n\n     - No argument or "all" = Will show all
+    agent visualizations.\n     - "humanoid" or "grounded" = shows humanoid agent''s
+    NavMesh visual.\n     - "flier" or "flyer" = shows the flyer agent''s NavMesh
+    visual.\n     - "swimmer" or "swim" = shows the swimmer agent''s visual.\n    
+    - "none" = Hides all NavMesh visuals.\n     - "on" = will allow the NavMesh visualization
+    to build for scene (will take time based on scene''s size). \n     - "off" =
+    will disable the NavMesh visuals from building in the next scene (will yield
+    faster load times).'
+  usesOwnHelp: 0
+  showNavMesh: 1

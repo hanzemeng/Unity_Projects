@@ -1,0 +1,61 @@
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+The gate... it's getting wider!
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Exactly! Dendrius was stupid to think he could keep this from me.
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Wait... what? Are you...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Yes, I'm not your grandfather, you silly boy.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I'm Axorath, his twin brother.
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But how did you...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Ah, remember the story I've told you? When my brother and I discovered the magical portal?
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+As we stepped into the portal, we began to witness the true source of the power and hear those sweet voices...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+For me, they were music to my ears. Songs of infinite power and limitless life.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But my brother Dendrius was revulsed by them. He saw it all as a dark plague that would destroy - instead of transform - humanity. He was wrong.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Ecstatic with this new-found power, I immediately set forth to transforming the world.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Sure, people died, but in a world clouded by chaos and strife, sacrifices have to be made.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But Dendrius, the fool, tried to stop me by sealing the portal with the Synapse Stone...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+So I killed him. But not before he had sealed the portal.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I was now powerless, as weak as a newborn with all magic having been wrenched from my being.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+In his dying breath, Dendrius summoned his faithful servant Navi, the only witness to the events...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Dendrius told him to hide the Synapse Stone in the Swamp of Bandoin where I could not get it because of the darkness in my heart...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+He told him to leave immediately, lest I recover my strength and take it from him.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+And he told him not to talk to anyone, for Dendrius knew my neuromancy power could turn any friend into foe.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Little did Dendrius know I had no power left. I could not stop Navi.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I was done for. I could hear the angry voices of men coming to get me. My end was near.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But then... an idea!
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I swapped my clothes with those of Dendrius and assumed his identity.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I hid his body and made up a story to tell the guards...
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+The same story you told me!
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Exactly!
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But what happened with Navi? Why did he never tell anyone what happened?
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Once I regained my strength, I went after him and made sure he never told anyone anything.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+But I’ve been trying to get Synapse Stone ever since. Until you brought it to me.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+And now, I can go back and imbibe the sweet infinite power!
+

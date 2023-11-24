@@ -1,0 +1,7 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+Hey, you feel that breeze too right? It's not just you who's feeling something wrong?
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+My crops have been going missing for the past week, more villagers seeing weirder and weirder monsters every day.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_1_Portrait
+And now we can't even get a shipment of food in! There's something ominous approaching. Venture out there with caution, kid.
+

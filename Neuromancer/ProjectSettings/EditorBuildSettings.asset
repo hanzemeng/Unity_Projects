@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Build/Initialization.unity
+    guid: beceddb7ccda748c883878cbca315dd1
+  - enabled: 1
+    path: Assets/Scenes/Build/Title.unity
+    guid: fadbc90faaea0411ab2852f1957a1573
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Introduction/Cutscene_Introduction.unity
+    guid: 88dc36e1d9e06173b86f85e978d43e15
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Town_Start_1/Cutscene_Town_Start_1.unity
+    guid: f2ebf4ab92beeb92d9d4a8159cdcc22a
+  - enabled: 1
+    path: Assets/Scenes/Build/Town_start.unity
+    guid: 45e045d0ad085714aa4b7e5e16918d88
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Town_Start_2/Cutscene_Town_Start_2.unity
+    guid: 3185004a9e0966aa8a0a04e1bbef8bb4
+  - enabled: 1
+    path: Assets/Scenes/Build/Town_start_destroyed.unity
+    guid: 27dbd8cbb1698e646864a277046dc753
+  - enabled: 1
+    path: Assets/Scenes/Build/Catacomb/Catacomb_Floor1.unity
+    guid: 6f33d731cad7945b2a07706287b20305
+  - enabled: 1
+    path: Assets/Scenes/Build/Catacomb/Catacomb_Floor2.unity
+    guid: 9568f78b8fb1e444ca09162ded0b7a50
+  - enabled: 1
+    path: Assets/Scenes/Build/Catacomb/Catacomb_Floor3.unity
+    guid: c47b58a404e6240f39159e166bc6be01
+  - enabled: 1
+    path: Assets/Scenes/Build/Catacomb/Catacomb_Floor4.unity
+    guid: e0d6679fe87e63b4bb30dc237fce341a
+  - enabled: 1
+    path: Assets/Scenes/Build/Swamp/Swamp_Entrance.unity
+    guid: 98d2bc9cde0ff377294e038a88f0b050
+  - enabled: 1
+    path: Assets/Scenes/Build/Swamp/Swamp_Floor1.unity
+    guid: 02898ae17251c4e5b8def1ad35ffde50
+  - enabled: 1
+    path: Assets/Scenes/Build/Swamp/Swamp_Floor2.unity
+    guid: 4f08f6404acf245f9a141afa3dbdf228
+  - enabled: 1
+    path: Assets/Scenes/Build/Swamp/Swamp_Floor3.unity
+    guid: f2eae2cfcec014217b2c5a13a4c47212
+  - enabled: 1
+    path: Assets/Scenes/Build/Swamp/Swamp_Floor4.unity
+    guid: 5c6ebb3d2c3934168a10c38912d590b6
+  - enabled: 1
+    path: Assets/Scenes/Build/VerdantCastle/VerdantCastle_Floor1.unity
+    guid: 8e06b262a0bf14340b9a03b2949cc591
+  - enabled: 1
+    path: Assets/Scenes/Build/VerdantCastle/VerdantCastle_Floor2.unity
+    guid: bc3b440c5617d42d0a27e290e9f1db87
+  - enabled: 1
+    path: Assets/Scenes/Build/VerdantCastle/VerdantCastle_Floor3.unity
+    guid: e051aa32f229c497eb304863ab1d7c43
+  - enabled: 1
+    path: Assets/Scenes/Build/VerdantCastle/VerdantCastle_Floor4.unity
+    guid: e7d9d3f7b9e5049ec879304ba2d6a77a
+  - enabled: 1
+    path: Assets/Scenes/Build/VerdantCastle/VerdantCastle_Floor5.unity
+    guid: d29a0da8737ab4261a35a9beb528a61f
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor1.unity
+    guid: dc2383a6615404e3c92fffe57a819460
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor2.unity
+    guid: f982ccd13f6124788a56953ee69e90e8
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor3.unity
+    guid: 01a764866c4ad4cf38c8d275db8eb40a
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor4.unity
+    guid: 025b7b9e2a3df4160a0496df49cbd686
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor5.unity
+    guid: 94e535d72d955438281242e5397e86fe
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor6.unity
+    guid: a6264448e4afd43d09bc77f1030cc1d9
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor7.unity
+    guid: e2ce4f01238074b779f02bdd8bc07f08
+  - enabled: 1
+    path: Assets/Scenes/Build/HellTrench/HellTrench_Floor8.unity
+    guid: 6b0026686db0a4ff3a73051c6fb112c8
+  - enabled: 1
+    path: Assets/Scenes/Build/Hell.unity
+    guid: 7c39be375ce9d45288efd3b7deceb74a
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Swamp_Floor4/Cutscene_Swamp_Floor4.unity
+    guid: e00ffbe7b596b4e35bbef8cfc55a04a4
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Field_Start/Field_Start.unity
+    guid: 4e6a56a387159a6439ef4075dc689fcd
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Credits/Cutscene_Credits.unity
+    guid: d812ad8d9bc3643b1af893a3555a1d7d
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_VerdantCastle_Floor5/Cutscene_VC5.unity
+    guid: 34bdafa4e9536a34aaa3656e895541fb
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_HellTrench_Floor8/Cutscene_HellTrench_Floor8.unity
+    guid: 0366073e294d948d68753097ea6dd579
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Field_Destroyed/Field_Destroyed.unity
+    guid: 0b60d5cc018016242a830a07ba4672dc
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Hell_1/Cutscene_Hell_1.unity
+    guid: 81886910a7bca4463bda5554d58e3ae9
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Hell_2/Cutscene_Hell_2.unity
+    guid: a40d2d09e8c9949b0ab349c6fe30b251
+  - enabled: 1
+    path: Assets/Scenes/Build/Cutscene/Cutscene_Epilogue/Cutscene_Epilogue.unity
+    guid: bd9f6df0ab2d14198ad1b30191e1fa5e
+  m_configObjects: {}

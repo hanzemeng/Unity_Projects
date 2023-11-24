@@ -1,0 +1,13 @@
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+{}, you did it! You saved my soul. Thank you.
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Let’s get you out of here.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+No, my son, my time is up. Alas, I will see my brother Dendrius soon in the forever after.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+You remind me of him. Such courage and kindness...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Now go on, get out of here. And remember, seal the ga-
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+No!
+

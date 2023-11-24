@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd8bf5c8a15e46342a570d66c4bd256c, type: 3}
+  m_Name: CarriableBoxData
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 8568101595008093875, guid: 3a0036a148d21e34987c331f313e4fcc, type: 3}
+  carriable: 1
+  placeable: 1
+  useable: 1
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  maxStackSize: 1
+  icon: {fileID: 21300000, guid: 967255be47c6f304cb46c7b5043c94ab, type: 3}

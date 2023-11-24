@@ -1,0 +1,4 @@
+<Left/Right> <TextBoxImageName> <LeftCharacterName> <RightCharacterName>
+<SentenceToBeDisplaied>
+
+Note: The file must end with 2 empty lines

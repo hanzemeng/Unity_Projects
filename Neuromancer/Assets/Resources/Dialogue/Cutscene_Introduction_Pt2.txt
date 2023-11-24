@@ -1,0 +1,11 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"We called this new form of sorcery</color> <color=red><b>Neuromancy</b></color><color=white>."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"In time, we discovered the source of the island's monstrous creatures and unique powers..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"A magical</color> <color=red><b>portal</b></color> <color=white>inside of the ruins of a castle deep in the heart of the island,</color> <color=white>the</color> <color=red><b>Forbidden Keep</b></color><color=white>..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"The portal was overflowing with neural energy, a source of</color> <color=red><b>infinite</b></color> <color=white>magical power..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"Driven by our curiosity and foolishness, we delved deep into the portal. But neither of us could have predicted what happened next..."</color>
+

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3830412153c76693da549374c9d13227, type: 3}
+  m_Name: Breakable Visualize Command
+  m_EditorClassIdentifier: 
+  commandWord: breakableShow
+  description: Applies a bright color on all breakable objects in the current scene.\n
+    - Green = all units can break.\n - Red = only blunt-based units can break.\n
+    - Blue = only sharp-based units can break.
+  help: '   "breakableShow {bool}"\n\n     - No Argument = Applies color if off, 
+    vice versa if on.\n     - "true" or "on" = Applies color.\n     - "false" or
+    "off" = Return back to original look.'
+  usesOwnHelp: 0

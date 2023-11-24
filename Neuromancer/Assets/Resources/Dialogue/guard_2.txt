@@ -1,0 +1,9 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+You're Dendrius's grandkid, right? Pleasure to see you out your house for once.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+You seriously got to visit your grandpa more often instead of him visiting you, he can barely walk with how old he is!
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+He only ever leaves his house to see you, nowadays he's just cooped up alone here and performing his regular elderly duties.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+Though I swear I hear him talking to himself sometimes on a couple of my guard shifts. You really should keep him company!
+

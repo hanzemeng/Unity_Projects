@@ -1,0 +1,9 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"Dark voices gnawed at our minds, promising forbidden knowledge and eternal life..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"I was unshaken, as I recognized the evil for what it was: a</color> <color=red><b>plague</b></color> <color=white>that would bring our world into ruin."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"But my brother Axorath..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"...did not have the resolve to resist its temptations. The realm had corrupted him both in body and mind."</color>
+

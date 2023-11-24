@@ -1,0 +1,5 @@
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Ah, yes! Damarcus, good to see you again.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Good bye, {}.
+

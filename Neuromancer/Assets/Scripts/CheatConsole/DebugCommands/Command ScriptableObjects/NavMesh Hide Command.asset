@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaab39a432f3a2e0591c2960ac988d8d, type: 3}
+  m_Name: NavMesh Hide Command
+  m_EditorClassIdentifier: 
+  commandWord: navmeshHide
+  description: Will hide any active navmesh visualizations in scene. \nWill NOT work
+    unless the Navmesh Display is set on.
+  help: '   "navmeshHide {string}"\n\n     - No argument or "all" = Will hide all
+    agent visualizations.\n     - "humanoid" or "grounded" = hides humanoid agent''s
+    NavMesh visual.\n     - "flier" or "flyer" = hides the flyer agent''s NavMesh
+    visual.\n     - "swimmer" or "swim" = hides the swimmer agent''s visualization.\n    
+    - "none" = Unhides all NavMesh visuals.'
+  usesOwnHelp: 0
+  showNavMesh: 0

@@ -1,0 +1,5 @@
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Head outside of the village to possess that <color=red><b>slime monster</b></color> with your newly acquired Neuromancy.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+The slime should be an easy creature to possess, just be cautious in case there are multiples out there. Running away is a viable tactic if you run out of magic!
+

@@ -1,0 +1,5 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_1_Portrait
+Ah, you're Dendrius's grandson, right? Heading outside the village to help out with the shipment issue?
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_1_Portrait
+Best stay safe out there. I've been seeing more and more weird-looking creatures pop up. Something tells me it isn't gonna stop anytime soon.
+

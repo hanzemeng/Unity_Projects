@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fcceea9ff9b8ac45b2f0a8fb47b9ca0, type: 3}
+  m_Name: Beam
+  m_EditorClassIdentifier: 
+  spellPrefab: {fileID: 7333957339571476226, guid: d2a1a1cb060068f49b22a4e2fb699530, type: 3}
+  type: 0
+  baseCost: 0.8
+  drainAmount: 200
+  maxRadius: 25
+  growthRate: 20
+  duration: 0
+  coolDown: 0
+  name: Psionic Pulselance
+  sprite: {fileID: 21300000, guid: b2839c48951b61d40ad87d9c2fad7750, type: 3}
+  info: A long, narrow beam capable of piercing through multiple units.
+  denyParticle: {fileID: 1469201857544070, guid: 4e0c3b09d4c1bfa41b658e7c9ae43bff, type: 3}

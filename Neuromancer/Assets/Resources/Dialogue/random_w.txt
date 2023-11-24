@@ -1,0 +1,9 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_2_Portrait
+Hey, {} is it? Sorry to bother you, but have you seen my little boy, Luca, anywhere?
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_2_Portrait
+He was playing in the field outside of town, but he hasn't come back.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_2_Portrait
+It's almost supper time, I'm so worried.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_2_Portrait
+If you see Luca, please bring him back.
+

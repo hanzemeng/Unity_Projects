@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ce4645abe81857288025db3968b3de, type: 3}
+  m_Name: Spawn Unit Command
+  m_EditorClassIdentifier: 
+  commandWord: spawnUnit
+  description: 'Spawns unit in scene within a random point around the player. \nNote:
+    Will only spawn unit if NavMesh exists in scene.'
+  help: '   "spawnUnit {string} {string}"\n\n     - Argument 1 = unit''s keyword,
+    refer to list of valid keywords for all units.\n     - Argument 2 = unit''s alliance
+    status.\n               > "enemy" = enemy version\n               > "ally" = 
+    ally version\n'
+  usesOwnHelp: 1
+  folderName: EmeraldAIUnits
+  defaultMainKeyword: slime
+  minSpawnRadius: 1.5
+  maxSpawnRadius: 3.5
+  numberOfIterationsForNavmeshSearch: 10
+  maxItertionsForRandomPoint: 100
+  isUnit: 1
+  isInstantiateOnClick: 0

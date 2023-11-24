@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d10fbc3da0c51bbb6b65f58c67d028e0, type: 3}
+  m_Name: To Scene Command
+  m_EditorClassIdentifier: 
+  commandWord: toScene
+  description: Will load the player to the chosen scene at the specified index.\nIf
+    using for current scene, then will warp players and allies to chosen player spawn
+    index.
+  help: '   "toScene [string] {int}"\n\n     - Argument 1 = scene name, refer to
+    list of valid scene names (REQUIRED). Other arguments include...\n          >
+    "this" = will warp the player and their allies to the current scene''s player
+    spawn point index without any reloading.\n          > "next" = Will spawn player
+    to the next scene based on specified order.\n          > "prior" = spawns player
+    in previous scene based on specified order.\n     - Argument 2 = player spawn
+    index, will spawn player at index 0 if an invalid index or no argument provided.\n'
+  usesOwnHelp: 1

@@ -1,0 +1,9 @@
+Right NormalTextBubble_V2 Elder_Dendrius_Portrait NPC_Soldier_Portrait
+Creatures, sir! Our latest crop shipment was attacked by some kind of <color=red><b>slime monster</b></color>!
+Right NormalTextBubble_V2 Elder_Dendrius_Portrait NPC_Soldier_Portrait
+And villagers are reporting even stranger creatures around Tranquil Village from the East!
+Left NormalTextBubble_V2 Elder_Dendrius_Portrait NPC_Soldier_Portrait
+Wait, a slime monster? But I haven't seen one since...
+Left NormalTextBubble_V2 Elder_Dendrius_Portrait NPC_Soldier_Portrait
+...
+

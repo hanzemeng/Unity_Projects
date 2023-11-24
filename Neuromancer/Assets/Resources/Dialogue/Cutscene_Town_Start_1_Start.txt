@@ -1,0 +1,19 @@
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Yes... it's coming back. {}, how would you like to learn a little <color=red><b>Neuromancy</b></color>?
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+What do you mean? Didn't you just say that with the portal sealed there is no magic left in the world?
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Well, something's causing a little bit of neural magic to come back.
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+But isn't this something only you and great-uncle Axorath could learn? Why can't you do it?
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+My spellcasting days are long gone, I can barely handle my own staff anymore. I'll grant you mine.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+My blood flows through your veins after all. And we will start simple...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Head to the outskirts of town and use your power to <color=red><b>capture one of these slime monsters</b></color>. Bring it back to me for further study.
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+I'm just a kid though! Why can't the sentry go?
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+I want <i>you</i> to do it. You are embarking on your first steps in becoming a <color=red><b>Neuromancer</b></color>.
+

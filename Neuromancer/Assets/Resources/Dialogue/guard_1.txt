@@ -1,0 +1,7 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+That ol' Dendrius has been overseeing this small village longer than anyone's been here, hasn't he?
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+Despite his withering, aging body, he insists on overseeing the village even when nothing happens here.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+That's some crazy commitment, ain't it? Inspires me a lil' bit to commit to my guarding duties.
+

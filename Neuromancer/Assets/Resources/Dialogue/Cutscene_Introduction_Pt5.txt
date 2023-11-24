@@ -1,0 +1,3 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"Left with no choice, I casted him into the portal and sealed it with him inside using the Synapse Stone..."</color>
+

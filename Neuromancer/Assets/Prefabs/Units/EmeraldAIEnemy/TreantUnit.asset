@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca9ceb493f612ef4b8de549a6739274d, type: 3}
+  m_Name: TreantUnit
+  m_EditorClassIdentifier: 
+  npcUnitType: 1
+  enemyPrefab: {fileID: 100084, guid: 18647af71b93643a2baafe6c344fc75b, type: 3}
+  allyPrefab: {fileID: 1854285732537247991, guid: 008e19c2ab7eb4dafb00870f46a0aec1, type: 3}
+  canTakeOver: 1
+  inventorySpace: 1
+  icon: {fileID: 21300000, guid: d052ded72002f084b8bb521ded65b37f, type: 3}
+  deathFX: {fileID: 4348045923172637205, guid: 55fed6f1099b6c74da204d475bd4dd60, type: 3}
+  dropItemFX: {fileID: 5416291788017889939, guid: 4ecaa62b47bd1734f8852ee25406701e, type: 3}

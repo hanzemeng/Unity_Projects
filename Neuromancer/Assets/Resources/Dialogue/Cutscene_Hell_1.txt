@@ -1,0 +1,19 @@
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Ah, {}! Wow, you’re stronger than I thought!
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Good! Together we will rule the world!
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+No, Axorath. I'm here to avenge my Grandfather, Dendrius!
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Stupid boy. Don’t fight it {}. Just listen to the voices...
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Give into their sweet darkness. Let them transform the world.
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Never!
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+You can’t win. No one can stop the power of the darkness.
+Left NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+I’d rather fight you.
+Right NormalTextBubble_V2 Hero_Portrait Axorath_Portrait
+Then you're as foolish as Dendrius. And just like him, you will die!
+

@@ -1,0 +1,11 @@
+Left NormalTextBubble_V2 Hero_Portrait Empty_Portrait
+There seems to be an inscription on the slab.
+Left NormalTextBubble_NoSpeaker_V2 Empty_Portrait Empty_Portrait
+"I, Navi, servant of Dendrius, place the <color=red><b>Synapse Stone</b></color> here, where it will be forever safe from the clutches of Axorath."
+Left NormalTextBubble_NoSpeaker_V2 Empty_Portrait Empty_Portrait
+"For only one with the purest heart can pass through the Swamp of Bandoin."
+Left NormalTextBubble_NoSpeaker_V2 Empty_Portrait Empty_Portrait
+"Dare not disturb, nor seek to see. For once unleashed, none shall be free."
+Left NormalTextBubble_V2 Hero_Portrait Empty_Portrait
+Now let's go to the <color=red><b>Forbidden Keep</b></color>!
+

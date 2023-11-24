@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fcceea9ff9b8ac45b2f0a8fb47b9ca0, type: 3}
+  m_Name: Missile
+  m_EditorClassIdentifier: 
+  spellPrefab: {fileID: 469852981601064403, guid: 422443998a7535b43897479ea2dbaf25, type: 3}
+  type: 3
+  baseCost: 8.5
+  drainAmount: 35
+  maxRadius: 0
+  growthRate: 0
+  duration: 0
+  coolDown: 0
+  name: Bewitching Burst
+  sprite: {fileID: 21300000, guid: 04ac121476ef23a43ab2c821f1be0aa0, type: 3}
+  info: A single-target blast of neural energy.
+  denyParticle: {fileID: 1264260324769604, guid: d7045b599c9e861438ecd526871d23fb, type: 3}

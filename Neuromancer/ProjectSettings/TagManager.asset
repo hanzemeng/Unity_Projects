@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Test
+  - Enemy
+  - Ally
+  - Hero
+  - Dead
+  - Interactable
+  - AI
+  - Blue
+  - Player Interactable
+  - Spike
+  - World Map Camera Location
+  - Altar Menu Canvas
+  - JumpPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Enemy
+  - Ally
+  - Hero
+  - OverlayUI
+  - Interactable
+  - Dead
+  - WorldSpaceUI
+  - Walkable
+  - Player Interactable
+  - Minimap Icon
+  - Overlay Minimap Icon
+  - Trap
+  - World Map Icon
+  - Overlay World Map Icon
+  - Wall
+  - Fog Clearer
+  - Spawner
+  - HeroNoCollide
+  - NoCollide
+  - Obstacle
+  - InteractableDropZone
+  - CollideHeroOnly
+  - DeathZone
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

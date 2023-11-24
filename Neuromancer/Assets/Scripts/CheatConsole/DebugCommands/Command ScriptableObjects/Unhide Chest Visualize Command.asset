@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0038fb7193e6382cdbccd84028359262, type: 3}
+  m_Name: Unhide Chest Visualize Command
+  m_EditorClassIdentifier: 
+  commandWord: unhideChest
+  description: 'Reveals contents of all treasure chests in scene. '
+  help: '   "unhideChest {bool}"\n\n     - No Argument = Unhides all chests if not
+    already unhidden,  vice versa if on.\n     - "true" or "on" = unhides all chests
+    and reveals contents.\n     - "false" or "off" = reverts chest back to normal.'
+  usesOwnHelp: 0

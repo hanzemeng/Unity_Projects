@@ -1,0 +1,21 @@
+Right ShoutTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+The portal! It's opening again! <color=red><b>Axorath</b></color> is coming...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+And when he does, he'll be unstoppable. Soaking in all that evil power for two hundred years...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Everyone will die, and chaos will run rampant across the world...
+Left ShoutTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Wait <b><i>what</i></b>?! What are we going to do?!
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Listen carefully, {}. I will go to the <color=red><b>Forbidden Keep</b></color> to do what I can to stop the portal from expanding any further. We <i><b>CANNOT</b></i> let Axorath escape!
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Meanwhile, I need you to go to the <color=red><b>Swamp of Bandoin</b></color> to get me the <color=red><b>Synapse Stone</b></color>.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Bring it back to me so I can seal the gate again. That's the only way we can stop Axorath's return.
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Wait, how do I get to the swamp?
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Go through the <color=red><b>Catacombs</b></color> on the edge of town. At the end, you'll find an exit to the swamp.
+Right ShoutTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+<b><i>Now GO!!!</i></b> The world is counting on you!
+

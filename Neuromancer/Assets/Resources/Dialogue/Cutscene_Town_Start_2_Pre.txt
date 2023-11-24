@@ -1,0 +1,11 @@
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Good job, {}! Now, let me take a look at it...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+...! Unbelievable... it's really happening....
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+What's happening?
+Right ShoutTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Hurry! We must barricade the village's entrance before it's too la-
+

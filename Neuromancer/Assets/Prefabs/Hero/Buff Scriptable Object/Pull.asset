@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c272a1999e55b94e834f3598a8793d5, type: 3}
+  m_Name: Pull
+  m_EditorClassIdentifier: 
+  token: 4
+  buffType: 4
+  modType: 1
+  modAmount: 0.5
+  duration: 5
+  cost: 5
+  activeParticle: {fileID: 1007285568428974, guid: a346bb489f281f440b10d173dfcf2ff6, type: 3}
+  collectParticle: {fileID: 2909796622983965380, guid: d2e7c0902e566b34c8f6f5cfa330de00, type: 3}
+  icon: {fileID: 21300000, guid: f3c6505a149c88649a3425947620d5a0, type: 3}
+  description: Pull enemy

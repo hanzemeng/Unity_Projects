@@ -1,0 +1,7 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"Once outside the portal, Axorath began unleashing unprecedented chaos upon the world."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"To stop my brother, I used the </color><color=red><b>Synapse Stone</b></color> <color=white>to seal the portal forever, to save the world from this plague of darkness..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"But before I could, Axorath attacked me. I realized then that the darkness had fully consumed him..."</color>
+

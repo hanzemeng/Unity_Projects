@@ -1,0 +1,5 @@
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Grandfather, I did it! I got the Synapse Stone!
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Finally! After all this time! {}, I knew I could count on you. You were pure of heart!
+

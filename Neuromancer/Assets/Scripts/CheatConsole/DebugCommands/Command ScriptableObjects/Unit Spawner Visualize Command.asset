@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba640c19baab2ec3a9872c9707e52e36, type: 3}
+  m_Name: Unit Spawner Visualize Command
+  m_EditorClassIdentifier: 
+  commandWord: unitSpawnerShow
+  description: Displays all unit spawners in scene.\nYellow sphere = spawn variance.\nRed
+    circle = minimum distance player must be away from spawner to start spawning.\nYellow
+    circle = player detection circle, will spawn whenever the spawner is active and
+    player is within detection.
+  help: '   "unitSpawnerShow {bool}"\n     - No Argument = Shows all spawners if
+    off,  vice versa if on.\n     - "true" or "on" = Show all spawner visuals.\n    
+    - "false" or "off" = Turn off spawner visuals.'
+  usesOwnHelp: 0

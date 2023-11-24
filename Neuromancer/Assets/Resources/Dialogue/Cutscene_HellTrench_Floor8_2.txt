@@ -1,0 +1,27 @@
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Raymand has always been the loyalest of all my creations.
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Yet, bestowing him with neuromancy was a mistake.
+Left TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Who the hell are you!
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+After witnessing him turning vast human armies against themselves, I realize the same could happen to me—turning my demon armies against themselves.
+Left TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+...
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+After the hell gate was sealed, I expected you humans to finish him off...
+Left TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+So you are the—
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Yes, the Leviathan.
+Left TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+...
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+And I see Raymand has taught you neuromancy.
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+(sigh)
+Right TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Guess I have work cut off for me.
+Left TextBubbleTalk HeroPortraitHalfNormal NPC0PortraitHalfNormal
+Bring it on, punk.
+

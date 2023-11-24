@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/TweenerVector.cs.meta
+guid: bbc608aeec7533d49ad9a0297fd31f58
+========
+guid: 81daa2740a2b70d419554dba020ba13e
+>>>>>>>> main:Assets/Scripts/Unit/Player/BuffCollectible.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

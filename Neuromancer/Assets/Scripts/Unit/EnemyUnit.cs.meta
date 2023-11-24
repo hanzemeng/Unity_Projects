@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca9ceb493f612ef4b8de549a6739274d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {instanceID: 0}
+  - allyPrefab: {instanceID: 0}
+  - icon: {fileID: 21300000, guid: f219794a1b2804ab5ab5871f8e296498, type: 3}
+  - deathFX: {fileID: 4348045923172637205, guid: 55fed6f1099b6c74da204d475bd4dd60, type: 3}
+  - dropItemFX: {fileID: 5416291788017889939, guid: 4ecaa62b47bd1734f8852ee25406701e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

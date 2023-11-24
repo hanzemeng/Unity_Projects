@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca9ceb493f612ef4b8de549a6739274d, type: 3}
+  m_Name: CorrosiveSlimeUnit
+  m_EditorClassIdentifier: 
+  npcUnitType: 0
+  enemyPrefab: {fileID: 5478625177797053058, guid: 64fcff2a6d2784f2c93e4c822845409f, type: 3}
+  allyPrefab: {fileID: 0}
+  canTakeOver: 0
+  inventorySpace: 1
+  icon: {fileID: 21300000, guid: f219794a1b2804ab5ab5871f8e296498, type: 3}
+  deathFX: {fileID: 4348045923172637205, guid: 55fed6f1099b6c74da204d475bd4dd60, type: 3}
+  dropItemFX: {fileID: 5416291788017889939, guid: 4ecaa62b47bd1734f8852ee25406701e, type: 3}
+  isBoss: 1

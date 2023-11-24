@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/UI/InvertedMaskImage.cs.meta
+guid: 9139416f29c6935418eb2c221977cc62
+========
+guid: 637495fa7edcfc24881a2a89afbb3f06
+>>>>>>>> main:Assets/Scripts/Unit/Player/SpellCollectible.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

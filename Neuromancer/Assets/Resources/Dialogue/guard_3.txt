@@ -1,0 +1,7 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+Like I informed Elder Dendrius and you, there are sightings of an impervious slime creature outside the village along the trail.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+If you intend to subdue it with that Neuro-magic or whatever it's called, I hope you're a fast learner.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Soldier_Portrait
+And do not even try to enter the <color=red><b>Catacombs</b></color>. Only Dendrius is able to open that anyways, so don't be a fool and risk your life outside more than you need to.
+

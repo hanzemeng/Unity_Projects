@@ -1,0 +1,15 @@
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+And we all lived happily ever after. The end!
+Left NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+What a great story, grandfather! But what happened to your brother?
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Axorath? After sealing him into that evil portal, I never saw him again. He was a good man, though, even if he was corrupted by the darkness.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+I hope you can meet him, one day. But I can only imagine what it's like to be trapped in that malevolent realm forever.
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+Although...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+...
+Right NormalTextBubble_V2 Hero_Portrait Elder_Dendrius_Portrait
+..something's brewing. I sense a vile aura in the air. It's subtle, but...
+

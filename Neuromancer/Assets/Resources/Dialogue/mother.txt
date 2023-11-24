@@ -1,0 +1,7 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_1_Portrait
+You heard about the <color=red><b>Swamp of Bandoin</b></color>? It's beyond the Catacombs that everyone's forbidden from going through.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_1_Portrait
+Rumor goes that one "pure of heart" can enter the depths of that swamp. What does that even mean?
+Right NormalTextBubble_V2 Hero_Portrait NPC_Female_1_Portrait
+It's especially weird that the elder's been sending a couple of the village's soldiers there. Though most just come back empty-handed anyways.
+

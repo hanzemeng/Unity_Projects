@@ -1,0 +1,9 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"With the portal sealed, all monsters disappeared and there was no more magic in the world..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"I was powerless once again, and had lost my only brother..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"To ensure the portal remained sealed, I immediately sent my trusted servant, </color><color=red><b>Navi</b></color><color=white>, to hide the Synapse Stone in the murky </color><color=red><b>Swamp of Bandoin</b></color><color=white>..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"A place where only one with the purest heart could reach it..."</color>
+

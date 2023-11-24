@@ -1,0 +1,9 @@
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_2_Portrait
+Ya talked with Dendrius lately? Out of all the villagers here, I've known 'im the longest!
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_2_Portrait
+Despite his ol' bones, I've seen 'im visit his brother's grave past the fence around the Catacombs outside the village late at night.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_2_Portrait
+It's an empty grave o' course, but lately he stopped going. 'Round the same time he started visiting ya more often lately.
+Right NormalTextBubble_V2 Hero_Portrait NPC_Male_2_Portrait
+Call it a hunch, but methinks that talking with ya has been helping him heal from losing his dear brother! Visit 'im more often! 
+

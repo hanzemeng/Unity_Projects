@@ -1,0 +1,7 @@
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"Two hundred years ago, our ancestors came to this island, a world crawling with strange</color> <color=red><b>monsters</b></color> <color=white>and unusual</color> <color=red><b>neural magic</b></color><color=white>..."</color>
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"My twin brother, </color><color=red><b>Axorath</b></color><color=white>, and I,</color> <color=red><b>Dendrius</b></color><color=white>, were the only ones able to master the island's bizarre magic..."</color> 
+Left IntroDialogueBubble Empty_Portrait Empty_Portrait
+<color=white>"...using it to bend the minds of the island's hostile creatures to our will and</color> <color=red><b>control</b></color> <color=white>them..."</color>
+

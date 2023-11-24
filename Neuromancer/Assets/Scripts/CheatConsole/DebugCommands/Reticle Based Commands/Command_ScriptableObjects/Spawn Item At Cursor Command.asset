@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45ce4645abe81857288025db3968b3de, type: 3}
+  m_Name: Spawn Item At Cursor Command
+  m_EditorClassIdentifier: 
+  commandWord: spawnItemAtCursor
+  description: 
+  folderName: Interactables/Carriables
+  defaultMainKeyword: key
+  minSpawnRadius: 0.5
+  maxSpawnRadius: 0.5
+  numberOfIterationsForNavmeshSearch: 10
+  maxItertionsForRandomPoint: 100
+  isUnit: 0
+  isInstantiateOnClick: 1

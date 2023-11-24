@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd8bf5c8a15e46342a570d66c4bd256c, type: 3}
+  m_Name: CarriableMetalBoxData
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 8568101595008093875, guid: 143bfc994099e9a4f95303b7fba0a59f, type: 3}
+  carriable: 1
+  placeable: 1
+  useable: 0
+  maxStackSize: 1
+  icon: {fileID: 21300000, guid: 06d7409bb03df9246a9c9975f31a8da8, type: 3}
