@@ -19,6 +19,8 @@ A free puzzle game available on [iOS](https://apps.apple.com/app/foul-flip/id646
 <img src="https://github.com/hanzemeng/Unity_Projects/assets/51301998/a0a1659e-07f1-45b4-b591-5664a453edea" width="230" height="400"/>
 
 ### Insiders (September 2022 - December 2022)
-A 3d horror game available on [itch.io](https://hanzemeng.itch.io/insiders).
+A 3d horror game available on [itch.io](https://hanzemeng.itch.io/insiders).<br>
+<img src="https://github.com/hanzemeng/Unity_Projects/assets/51301998/3b272975-2106-4fd1-9d44-6e1e2b80dec0" width="600" height="337"/>
+
 ### Neuromancer (January 2023 - November 2023)
 An action RPG available on [itch.io](https://hanzemeng.itch.io/neuromancer/download/qdnCm7_wr8Eu2r6SlbIb0ljefnJ6KzfYvnU0CooT).
