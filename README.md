@@ -12,6 +12,8 @@ The projects uploaded to this repository do not contain all of their assets. Thi
 Below describes each project in more detail and shows the period that I actively worked on it.
 ### DOTS_Demo November 2023
 A demo project to show off my skills in DOTS.
+![DOTS_Demo-gif](https://github.com/hanzemeng/Unity_Projects/assets/51301998/d4c08e73-9a5b-4f73-a028-57890c8d1b90)
+
 ### Foul Flip (September 2023 - October 2023)
 A free puzzle game available on [iOS](https://apps.apple.com/app/foul-flip/id6467679071) and [itch.io](https://hanzemeng.itch.io/foul-flip).
 ### Insiders (September 2022 - December 2022)
