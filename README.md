@@ -11,11 +11,13 @@ The projects uploaded to this repository do not contain all of their assets. Thi
 ## Project Summary
 Below describes each project in more detail and shows the period that I actively worked on it.
 ### DOTS_Demo November 2023
-A demo project to show off my skills in DOTS.
-![DOTS_Demo-gif](https://github.com/hanzemeng/Unity_Projects/assets/51301998/d4c08e73-9a5b-4f73-a028-57890c8d1b90)
+A demo project to show off my skills in DOTS.<br>
+<img src="https://github.com/hanzemeng/Unity_Projects/assets/51301998/d4c08e73-9a5b-4f73-a028-57890c8d1b90" width="530" height="300"/>
 
 ### Foul Flip (September 2023 - October 2023)
-A free puzzle game available on [iOS](https://apps.apple.com/app/foul-flip/id6467679071) and [itch.io](https://hanzemeng.itch.io/foul-flip).
+A free puzzle game available on [iOS](https://apps.apple.com/app/foul-flip/id6467679071) and [itch.io](https://hanzemeng.itch.io/foul-flip).<br>
+<img src="https://github.com/hanzemeng/Unity_Projects/assets/51301998/a0a1659e-07f1-45b4-b591-5664a453edea" width="230" height="400"/>
+
 ### Insiders (September 2022 - December 2022)
 A 3d horror game available on [itch.io](https://hanzemeng.itch.io/insiders).
 ### Neuromancer (January 2023 - November 2023)
