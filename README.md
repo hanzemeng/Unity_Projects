@@ -10,7 +10,7 @@ The projects uploaded to this repository do not contain all of their assets. Thi
 
 ## Project Summary
 Below describes each project in more detail and shows the period that I actively worked on it.
-### DOTS_Demo November 2023
+### DOTS_Demo (November 2023)
 A demo project to show off my skills in DOTS.<br>
 <img src="https://github.com/hanzemeng/Unity_Projects/assets/51301998/d4c08e73-9a5b-4f73-a028-57890c8d1b90" width="530" height="300"/>
 
